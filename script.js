@@ -13,6 +13,6 @@ function addNewImages() {
 }
 
 btn.addEventListener("click", () => {
-  imgnum = 10;
+  imgnum = 16;
   addNewImages();
 });
